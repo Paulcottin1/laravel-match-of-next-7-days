@@ -1,0 +1,52 @@
+html {
+    height: 100%;
+    background-color: #8080803d;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.space-between {
+    justify-content: space-between !important;
+}
+
+.margin-right {
+    margin-right: 15px;
+}
+
+.margin-left {
+    margin-left: 15px;
+}
+
+.margin-bottom {
+    margin-bottom: 15px;
+}
+
+.padding-right {
+    padding-right: 15px;
+}
+
+.padding-left {
+    padding-left: 15px;
+}
+
+#matchDate {
+    background-color: #00800085;
+    border-radius: 5px 5px 0 0;
+}
+
+.win-odds {
+    padding: 10px;
+    background-color: green;
+    border-radius: 5px;
+}
+
+.draw-odds {
+    padding: 10px;
+    background-color: red;
+    border-radius: 5px;
+}
